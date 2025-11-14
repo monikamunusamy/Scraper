@@ -18,9 +18,8 @@ This is a volunteer project for UKE. It combines a Rust-based Axum backend with 
 - Answers include a direct **Source** link and a top-sources list for traceability  
 - Speed knobs: skip PDFs, limit PDF pages, reduce chunk sizes, enable fast-mode  
 
-<p align="center">
-  <img src="./images/A-3.png" width="600" alt="UI Screenshot – paste link or upload file">
-</p>
+![Alt text](A-3.png)
+
 
 ---
 
@@ -179,7 +178,10 @@ On question: embed the query, then rerank chunks using cosine similarity + BM25 
 
 Build a grounded prompt with the top chunks → generate final answer with sources.
 
-<p align="center"> <img src="./images/A-2.png" width="600" alt="Pipeline Diagram"> <img src="./images/A-1.png" width="600" alt="Screenshots"> </p>
+![Alt text](A-2.png)
+![Alt text](A-1.png)
+
+
 
 
 **Tips & Troubleshooting**
