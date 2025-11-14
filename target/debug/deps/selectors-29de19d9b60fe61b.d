@@ -1,0 +1,18 @@
+/Users/monikam/SCRAPER/target/debug/deps/selectors-29de19d9b60fe61b.d: /Users/monikam/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/selectors-0.25.0/lib.rs /Users/monikam/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/selectors-0.25.0/attr.rs /Users/monikam/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/selectors-0.25.0/bloom.rs /Users/monikam/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/selectors-0.25.0/builder.rs /Users/monikam/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/selectors-0.25.0/context.rs /Users/monikam/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/selectors-0.25.0/matching.rs /Users/monikam/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/selectors-0.25.0/nth_index_cache.rs /Users/monikam/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/selectors-0.25.0/parser.rs /Users/monikam/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/selectors-0.25.0/sink.rs /Users/monikam/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/selectors-0.25.0/tree.rs /Users/monikam/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/selectors-0.25.0/visitor.rs /Users/monikam/SCRAPER/target/debug/build/selectors-1cbff47ba83a74cc/out/ascii_case_insensitive_html_attributes.rs
+
+/Users/monikam/SCRAPER/target/debug/deps/libselectors-29de19d9b60fe61b.rmeta: /Users/monikam/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/selectors-0.25.0/lib.rs /Users/monikam/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/selectors-0.25.0/attr.rs /Users/monikam/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/selectors-0.25.0/bloom.rs /Users/monikam/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/selectors-0.25.0/builder.rs /Users/monikam/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/selectors-0.25.0/context.rs /Users/monikam/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/selectors-0.25.0/matching.rs /Users/monikam/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/selectors-0.25.0/nth_index_cache.rs /Users/monikam/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/selectors-0.25.0/parser.rs /Users/monikam/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/selectors-0.25.0/sink.rs /Users/monikam/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/selectors-0.25.0/tree.rs /Users/monikam/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/selectors-0.25.0/visitor.rs /Users/monikam/SCRAPER/target/debug/build/selectors-1cbff47ba83a74cc/out/ascii_case_insensitive_html_attributes.rs
+
+/Users/monikam/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/selectors-0.25.0/lib.rs:
+/Users/monikam/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/selectors-0.25.0/attr.rs:
+/Users/monikam/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/selectors-0.25.0/bloom.rs:
+/Users/monikam/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/selectors-0.25.0/builder.rs:
+/Users/monikam/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/selectors-0.25.0/context.rs:
+/Users/monikam/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/selectors-0.25.0/matching.rs:
+/Users/monikam/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/selectors-0.25.0/nth_index_cache.rs:
+/Users/monikam/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/selectors-0.25.0/parser.rs:
+/Users/monikam/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/selectors-0.25.0/sink.rs:
+/Users/monikam/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/selectors-0.25.0/tree.rs:
+/Users/monikam/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/selectors-0.25.0/visitor.rs:
+/Users/monikam/SCRAPER/target/debug/build/selectors-1cbff47ba83a74cc/out/ascii_case_insensitive_html_attributes.rs:
+
+# env-dep:OUT_DIR=/Users/monikam/SCRAPER/target/debug/build/selectors-1cbff47ba83a74cc/out
